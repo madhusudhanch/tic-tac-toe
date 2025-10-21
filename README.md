@@ -1,3 +1,8 @@
+## Live Demo
+Play the game online: [Rock Paper Scissors](https://madhusudhanch.github.io/tic-tac-toe/)
+
+---
+
 # 🎮 Tic Tac Toe Game
 
 A classic **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.  
