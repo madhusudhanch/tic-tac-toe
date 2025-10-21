@@ -1,5 +1,5 @@
 ## Live Demo
-Play the game online: [Rock Paper Scissors](https://madhusudhanch.github.io/tic-tac-toe/)
+Play the game online: [Tic Tac Toe](https://madhusudhanch.github.io/tic-tac-toe/)
 
 ---
 
